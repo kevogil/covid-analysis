@@ -58,7 +58,7 @@ The following logics were applied to populate the 'race/ethnicity' column:
     
 ## Reorganized columns in dataset
 The dataset columns were reorganized in the following sequence:
-    ['year','month','case_month','res_county','res_state','county_fips_code','age_group','sex','race','ethnicity','race/ethnicity','current_status','death_yn']
+    ['year','month','case_month','res_county','res_state','county_fips_code','age_group','sex','race/ethnicity','current_status','death_yn']
     
 
 ## Cleaned dataset exported to CSV
