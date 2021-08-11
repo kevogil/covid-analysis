@@ -15,7 +15,9 @@ https://covid.cdc.gov/covid-data-tracker/#county-view
 - County Health Rankings & Roadmaps
 https://www.countyhealthrankings.org/app/california/2021/overview
 - Statewide COVID-19 Cases Deaths Tests
-URL: https://data.chhs.ca.gov/dataset/f333528b-4d38-4814-bebb-12db1f10f535/resource/046cdd2b-31e5-4d34-9ed3-b48cdbc4be7a/download/covid19cases_test.csv
+https://data.chhs.ca.gov/dataset/f333528b-4d38-4814-bebb-12db1f10f535/resource/046cdd2b-31e5-4d34-9ed3-b48cdbc4be7a/download/covid19cases_test.csv
+- County FIPS Codes
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/home/?cid=nrcs143_013697
 
 **Calculations:**
 - Cumulative Deaths /Cases (calculated by EK): Using Excel, divided values in column E (Cumulative Deaths (2020-02-01 - 2021-31-07)) by values in column D (Cumulative Cases (2020-02-01 - 2021-31-07)).
